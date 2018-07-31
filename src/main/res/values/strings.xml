@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dziuba Appodeal </string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="question">Уважаемый пользователь, для отображения рекламы нужно подключить интернет,
+        на данный момент, он у Вас выключен. Хотите подключить интернет?</string>
+    <string name="yes_i_want">Да, я хочу</string>
+    <string name="no">Нет</string>
+</resources>
